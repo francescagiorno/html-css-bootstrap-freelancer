@@ -5,13 +5,48 @@
 
 .mg_scatola{
   border: 1px solid black;
-  height: 400px;
+  height: 500px;
 }
 
 .mg_scatola-1{
   border: 1px solid black;
   height: 300px;
   position: relative;
-  top: 10px;
+  top: 50px;
   left: 190px;
+}
+
+
+.mg_scatola-2{
+  border: 1px solid black;
+  height: 100px;
+  position: relative;
+  top:30px;
+  left:400px;
+
+}
+
+
+
+ .mg_scatola-3{
+   border: 1px solid black;
+   height: 90px;
+   margin-left: 70px;
+   margin-top: 80px;
+
+ }
+
+
+.mg_little-cont{
+  height: 300px;
+  border: 1px solid black;
+}
+
+.mg_scatola-4{
+  border: 1px solid black;
+  height: 70px;
+  position: relative;
+  top:30px;
+  left:400px;
+
 }
